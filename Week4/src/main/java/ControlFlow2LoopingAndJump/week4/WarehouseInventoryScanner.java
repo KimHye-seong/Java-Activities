@@ -141,7 +141,7 @@ public class WarehouseInventoryScanner {
                     System.out.println("Invalid choice. Please enter 1 to 4.");
             }
         }while(choice != 4);
-        System.out.println("\n<~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~>\n");
+        System.out.println("<~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~>\n");
 
         jarvis.close();
     }
